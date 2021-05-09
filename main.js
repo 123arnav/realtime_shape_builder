@@ -2,6 +2,7 @@ noseX="";
 noseY="";
 LeftWrist="";
 RightWrist="";
+difference="";
 function preload(){
 
 }
